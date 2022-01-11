@@ -1,0 +1,112 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(back.png);
+    background-size: cover;
+    background-position: center;
+
+}
+.container
+{
+    background-image: url(back2.jpg);
+    border-radius: 7px;
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+.logo
+{
+    width: 75px;;
+}
+.container h2
+{
+    color: rgb(4, 143, 153);
+}
+.ls hr
+{
+    width: 60%;
+}
+.input-box
+{
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    text-decoration:grey;
+}
+.pass
+{
+    margin: -5 auto;
+    text-align:right;
+    color: rgb(4, 143, 153);
+}
+.conf
+{
+    color: grey;
+}
+a
+{
+    color: rgb(4, 143, 153);
+}
+.check
+{
+    color: grey;
+}
+.login-button1
+{
+    margin-top: 25px;
+    width: 100%;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(24, 114, 117);
+}
+hr
+{
+    margin-top: 10px;
+    width: 100%;
+}
+.or 
+{
+    margin: -19 auto 5px;
+    width: 50px;
+    background: #fff;
+}
+.or2
+{
+    margin: -19 auto 5px;
+    width: 110px;
+    background: #fff;
+}
+.cont
+{
+    margin: -5 auto;
+}
+.login-button2
+{
+    margin-top: 3px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 6px;
+    color: rgb(4, 143, 153);
+    width: 100%;
+}
+.logo2 
+{
+    margin:10 auto 10px;
+    width: 45px;
+}
+.acc
+{
+    color: grey;
+    margin: -10 auto 5px;
+}
+.acc a
+{
+    text-decoration: none;
+    color: rgb(4, 143, 153);
+}
